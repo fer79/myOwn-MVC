@@ -1,0 +1,13 @@
+## if is not in the file already 
+
+  <VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs"
+    ServerName localhost
+  </VirtualHost>
+
+##
+
+<VirtualHost *:80>
+  DocumentRoot "C:/xampp/htdocs/myOwn-MVC"
+  ServerName myOwn-MVC.gt
+</VirtualHost>
